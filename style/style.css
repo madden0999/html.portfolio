@@ -1,0 +1,16 @@
+body {
+    background-color: aquamarine;
+}
+button > a {
+    text-decoration: none;
+    border-radius: 5px;
+    color: chocolate;
+    font-size: 1rem;
+
+}
+button {
+    background-color: aquamarine;
+    border-style: none;
+    
+
+}
