@@ -1,9 +1,13 @@
+
 body {
     display: flex;
     flex-direction: row;
-    background-color: aquamarine;
     justify-content: center;
     list-style-position: outside;
+    
+}
+.main {
+    background-color: aquamarine;
 }
 .center {
   display: block;
